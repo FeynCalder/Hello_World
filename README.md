@@ -1,41 +1,43 @@
-# Halo, Saya [Nama Kamu]! 👋
-
-### 🚀 Enthusiastic [Role Kamu, misal: Fullstack Developer / Student / Data Science Enthusiast] dari Indonesia
-
-Saya adalah seorang pengembang yang senang membangun hal-hal bermakna dengan kode. Fokus utama saya saat ini adalah **[Sebutkan teknologi utama, misal: React & Node.js]**.
-
----
-
-### 🛠️ My Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=nodesdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
+# <p align="center">Hi, I'm [Your Name] 👋</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/mabdullahadeel/mabdullahadeel/main/assets/glassmorphism_banner.png" alt="Header" width="100%">
 </p>
 
+<div align="center">
+  
+  ### 🌌 [Your Role] • [Current Focus] • [Location]
+  
+  ---
+
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 20px;">
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb,figma" />
+        </p>
+        <p align="center">
+          <b>Crafting digital experiences with precision and minimalist aesthetics.</b>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  ### 📊 Connectivity & Stats
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/[your-username]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Stats" width="400" />
+
+</div>
+
 ---
 
-### 📫 Let's Connect!
-
-- 🌍 Portofolio: [link-kamu.com](https://link-kamu.com)
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- 📧 Email: [email@kamu.com](mailto:email@kamu.com)
-- 📸 Instagram: [@username](https://instagram.com/username)
-
----
-
-### ⚡ Fun Fact
-- 🔭 Saya sedang mengerjakan **[Nama Project]**
-- 🌱 Sedang mendalami **[Skill Baru]**
-- ⚡ Katanya, kopi adalah bahan bakar utama kode saya. ☕
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+</p>
