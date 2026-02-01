@@ -1,47 +1,45 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hello, I'm [Your Name]
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Leaf%20Fluttering%20in%20Wind.png" width="35" /> Hi, I'm [Your Name]
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
-    <td style="background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%); border-radius: 20px;">
-      <a href="https://github.com/[YOUR_USER]">
-        <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=vincit&hide_border=true&bg_color=ffffff00&title_color=b8a7ea&text_color=8da2fb&icon_color=b8a7ea" alt="Stats" />
-      </a>
+    <td style="background: linear-gradient(135deg, #f0f4f0 0%, #d9e4d9 100%); border-radius: 25px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.3);">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=extrinsic&hide_border=true&bg_color=ffffff00&title_color=6b8e23&text_color=4f6b40&icon_color=8da47e" alt="Stats" />
+      </p>
+      <p align="center">
+        <b>🌿 Creative Developer | Matcha Enthusiast | Minimalist Soul 🌿</b>
+      </p>
     </td>
   </tr>
 </table>
 
-### ✨ [Your Role] | Aesthetic Coder | Minimalist Enthusiast
+<br />
 
----
-
-### 🎨 My Pastel Palette (Stack)
+### 🍃 The Tea (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,figma,threejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,mongodb&theme=light" />
 </p>
 
 ---
 
-### ☁️ Let's Float Together
+### 🍵 Let's Brew Something Together
 
 <p align="center">
   <a href="https://linkedin.com/in/[USER]">
-    <img src="https://img.shields.io/badge/LinkedIn-EDF2F7?style=for-the-badge&logo=linkedin&logoColor=8da2fb" />
+    <img src="https://img.shields.io/badge/LinkedIn-F1F8E9?style=for-the-badge&logo=linkedin&logoColor=689F38" />
   </a>
   <a href="mailto:[EMAIL]">
-    <img src="https://img.shields.io/badge/Email-FDF2F8?style=for-the-badge&logo=gmail&logoColor=f9a8d4" />
-  </a>
-  <a href="https://instagram.com/[USER]">
-    <img src="https://img.shields.io/badge/Instagram-F5F3FF?style=for-the-badge&logo=instagram&logoColor=b8a7ea" />
+    <img src="https://img.shields.io/badge/Email-F1F8E9?style=for-the-badge&logo=gmail&logoColor=689F38" />
   </a>
 </p>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
-    <td style="background: linear-gradient(to right, #e0c3fc 0%, #8ec5fc 100%); border-radius: 15px; padding: 10px;">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&hide_border=true&bg_color=ffffff00&title_color=ffffff&text_color=ffffff" width="300" />
+    <td style="background: linear-gradient(to right, #e8f5e9, #c8e6c9); border-radius: 20px; padding: 10px;">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&hide_border=true&bg_color=ffffff00&title_color=2e7d32&text_color=4e704e" width="300" />
     </td>
   </tr>
 </table>
@@ -49,8 +47,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cloud.png" width="25" /> 
-  <i>Building dreams with soft hues and clean lines.</i>
+  <i>"Code like coffee, aesthetic like matcha."</i>
+  <br />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20Drink/Teacup%20Without%20Handle.png" width="30" />
 </p>
 
 </div>
