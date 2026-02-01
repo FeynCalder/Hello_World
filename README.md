@@ -1,43 +1,56 @@
-# <p align="center">Hi, I'm [Your Name] 👋</p>
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hello, I'm [Your Name]
+
+<table align="center">
+  <tr>
+    <td style="background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%); border-radius: 20px;">
+      <a href="https://github.com/[YOUR_USER]">
+        <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=vincit&hide_border=true&bg_color=ffffff00&title_color=b8a7ea&text_color=8da2fb&icon_color=b8a7ea" alt="Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### ✨ [Your Role] | Aesthetic Coder | Minimalist Enthusiast
+
+---
+
+### 🎨 My Pastel Palette (Stack)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mabdullahadeel/mabdullahadeel/main/assets/glassmorphism_banner.png" alt="Header" width="100%">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,figma,threejs&theme=light" />
 </p>
 
-<div align="center">
-  
-  ### 🌌 [Your Role] • [Current Focus] • [Location]
-  
-  ---
+---
 
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 20px;">
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb,figma" />
-        </p>
-        <p align="center">
-          <b>Crafting digital experiences with precision and minimalist aesthetics.</b>
-        </p>
-      </td>
-    </tr>
-  </table>
+### ☁️ Let's Float Together
 
-  ---
+<p align="center">
+  <a href="https://linkedin.com/in/[USER]">
+    <img src="https://img.shields.io/badge/LinkedIn-EDF2F7?style=for-the-badge&logo=linkedin&logoColor=8da2fb" />
+  </a>
+  <a href="mailto:[EMAIL]">
+    <img src="https://img.shields.io/badge/Email-FDF2F8?style=for-the-badge&logo=gmail&logoColor=f9a8d4" />
+  </a>
+  <a href="https://instagram.com/[USER]">
+    <img src="https://img.shields.io/badge/Instagram-F5F3FF?style=for-the-badge&logo=instagram&logoColor=b8a7ea" />
+  </a>
+</p>
 
-  ### 📊 Connectivity & Stats
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/[your-username]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Stats" width="400" />
-
-</div>
+<table align="center">
+  <tr>
+    <td style="background: linear-gradient(to right, #e0c3fc 0%, #8ec5fc 100%); border-radius: 15px; padding: 10px;">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&hide_border=true&bg_color=ffffff00&title_color=ffffff&text_color=ffffff" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cloud.png" width="25" /> 
+  <i>Building dreams with soft hues and clean lines.</i>
 </p>
+
+</div>
